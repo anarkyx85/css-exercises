@@ -1,0 +1,19 @@
+.clase1 {
+	background-color: #ff80ff;
+	font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#etiqueta1 {
+	color: #0000ff;
+	font-size: 36px;
+}
+
+.clase2 {
+	font-size: 24px;
+}
+
+#etiqueta2 {
+	background-color: #4dff4d;
+	font-size: 24px;
+	font-weight: bold;
+}
